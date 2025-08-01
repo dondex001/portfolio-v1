@@ -1,6 +1,6 @@
 # My Frontend Portfolio
-welcome to my personal portfolio website.
-Built with HTML, CSS, Javascript to showcase my skills and projects.
+Welcome to my personal portfolio website.
+Built to showcase my skills and projects.
 
 ## 🔥 Highlights
 - Responsie Design
